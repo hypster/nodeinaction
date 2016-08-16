@@ -1,0 +1,14 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+#content{
+    width: 800px;
+    margin: 0 auto;
+}
+#messages{
+    width: 800px;
+    height:480px;
+    background-color: #cccccc;
+    overflow: auto;
+}
